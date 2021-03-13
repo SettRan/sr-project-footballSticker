@@ -1,0 +1,17 @@
+.nav_header a{
+  color: rgb(194, 0, 0);
+  text-decoration: none;
+}
+.nav_header a:hover{
+  color: yellow;
+}
+/* for image link */
+.pic_link{
+  color: red;
+  text-decoration: none;
+}
+.pic_link:hover{
+  color: rgb(0, 0, 0);
+}
+
+
