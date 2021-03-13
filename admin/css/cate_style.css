@@ -1,0 +1,51 @@
+.cate_css {
+  background-color: rgb(48, 48, 48);
+  border: 3px solid rgb(0, 0, 0);
+  color: black;
+  border-radius: 20px;
+}
+
+/* for category.php dashboard right list */
+.cate_dash li a {
+  text-decoration: none;
+  color: rgb(0, 66, 247);
+  font-size: 50px;
+}
+.cate_dash li a:hover {
+  color: rgb(25, 151, 8);
+}
+.cate_dash {
+  margin-left: 15px;
+  margin-top: 60px;
+}
+
+/* for overview category list */
+.cate_list_overview {
+  border: 3px solid black;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+/* for category limit list */
+.cate_limit{
+}
+
+/* for new product adding box */
+.funi_product {
+  border: 3px solid black;
+  background-color:rgb(48, 48, 48);
+  color: rgb(255, 255, 255);
+  border-radius: 20px;
+  
+}
+.form_margin {
+  margin-bottom: 100px;
+  margin-top: 150px;
+}
+/* for img and funiture input fiel */
+.fun_add_button{
+  border-bottom-right-radius: 20px;
+}
+.fun_add_button_qty{
+  border-bottom-left-radius: 20px;
+  border: 1px solid white;
+}
